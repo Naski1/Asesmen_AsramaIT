@@ -1,0 +1,8 @@
+body {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.navbar {
+    background-color: rgba(0, 132, 255, 0.822);
+}
